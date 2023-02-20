@@ -1,0 +1,44 @@
+{
+  "name": "LuciesPurple",
+  "author": "Luciezka",
+  "dark": true,
+  "editorScheme": "/LuciesPurple.xml",
+  "colors": {
+    "basicBackground": "#2e2837",
+    "basicForeground": "#33ecc8",
+    "accentColor": "#51485b",
+    "darkerbackground": "#1f152a"
+  },
+  "ui": {
+    "*": {
+      "inactiveBackground": "basicBackground",
+      "background": "basicBackground",
+      "foreground": "#e3e3e3",
+      "inactiveUnderlineColor" : "basicForeground",
+      "underlineColor": "basicForeground",
+      "underlinedTabBackground": "#51485b",
+      "EditorPane.splitBorder": "accentColor",
+      "borderColor": "accentColor",
+      "focusedBorderColor": "basicForeground",
+      "color" : "accentColor"
+    },
+    "EditorTabs": {
+      "underlineHeight": 2,
+      "borderColor": "basicBackground"
+    },
+
+    "Window.border" : "accentColor",
+    "Label.foreground": "basicForeground",
+    "Panel.background": "basicBackground",
+
+    "ToolWindow.Header.inactiveBackground": "accentColor",
+    "ToolWindow.Header.background": "accentColor",
+    "ToolWindow.Button.selectedBackground": "accentColor",
+    "Tree.selectionBackground" : "accentColor",
+    "Tree.selectionInactiveBackground" : "accentColor",
+    "DefaultTabs.inactiveUnderlineColor": "accentColor",
+
+    "Popup.Toolbar.background": "accentColor",
+    "Label.background" : "basicForeground"
+  }
+}
