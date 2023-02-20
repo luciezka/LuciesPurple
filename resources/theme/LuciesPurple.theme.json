@@ -16,29 +16,38 @@
       "foreground": "#e3e3e3",
       "inactiveUnderlineColor" : "basicForeground",
       "underlineColor": "basicForeground",
+      "focusedBorderColor": "basicForeground",
       "underlinedTabBackground": "#51485b",
       "EditorPane.splitBorder": "accentColor",
       "borderColor": "accentColor",
-      "focusedBorderColor": "basicForeground",
       "color" : "accentColor"
     },
     "EditorTabs": {
       "underlineHeight": 2,
       "borderColor": "basicBackground"
     },
-
+    "ToolWindow": {
+      "Header.inactiveBackground": "accentColor",
+      "Header.background": "accentColor",
+      "Button.selectedBackground": "accentColor"
+    },
     "Window.border" : "accentColor",
-    "Label.foreground": "basicForeground",
-    "Panel.background": "basicBackground",
 
-    "ToolWindow.Header.inactiveBackground": "accentColor",
-    "ToolWindow.Header.background": "accentColor",
-    "ToolWindow.Button.selectedBackground": "accentColor",
+    "Label.foreground": "basicForeground",
+    "Label.background" : "basicForeground",
+
+    "Panel.background": "basicBackground",
+    "Panel.foreground": "basicForeground",
+
     "Tree.selectionBackground" : "accentColor",
     "Tree.selectionInactiveBackground" : "accentColor",
     "DefaultTabs.inactiveUnderlineColor": "accentColor",
 
     "Popup.Toolbar.background": "accentColor",
-    "Label.background" : "basicForeground"
+
+    "ComboBox.ArrowButton.background" : "accentColor",
+    "ComboBox.ArrowButton.disabledIconColor": "accentColor",
+    "ComboBox.ArrowButton.iconColor": "accentColor"
+
   }
 }

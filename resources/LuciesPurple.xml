@@ -1,5 +1,4 @@
 <scheme name="Lucies Custom Theme copy" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-02-20T14:49:15</property>
     <property name="ide">idea</property>
@@ -7,11 +6,6 @@
     <property name="modified">2023-02-20T14:49:26</property>
     <property name="originalScheme">Lucies Custom Theme copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -47,19 +41,19 @@
     <option name="INFORMATION_HINT" value="282c34" />
     <option name="LINE_NUMBERS_COLOR" value="495162" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
-    <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
+    <option name="METHOD_SEPARATORS_COLOR" value="51485b" />
     <option name="MODIFIED_LINES_COLOR" value="e5c17c" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
     <option name="MT_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="MT_MODIFIED" value="e2c08d" />
+    <option name="MT_MODIFIED" value="229f87" />
     <option name="MT_RENAMED" value="6494ed" />
     <option name="MT_SUPPRESSED" value="abb2bf" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="979fad" />
     <option name="QUESTION_HINT" value="282c34" />
-    <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
+    <option name="RIGHT_MARGIN_COLOR" value="51485b" />
     <option name="SELECTED_INDENT_GUIDE" value="57b6c2" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="3e4451" />
@@ -67,14 +61,14 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="535a69" />
     <option name="ScrollBar.Transparent.thumbColor" value="535a69" />
-    <option name="TEARLINE_COLOR" value="3b4950" />
+    <option name="TEARLINE_COLOR" value="51485b" />
     <option name="TOOLTIP" value="3a3f4b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="59626f" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="51485b" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="WHITESPACES" value="2e3c43" />
+    <option name="WHITESPACES" value="51485b" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59626f" />
   </colors>
   <attributes>
@@ -195,25 +189,26 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="33ecc8" />
         <option name="BACKGROUND" value="59626f" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="BACKGROUND" value="282c34" />
+        <option name="FOREGROUND" value="33ecc8" />
+        <option name="BACKGROUND" value="51485b" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="2979ff" />
+        <option name="BACKGROUND" value="33ecc8" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="425b67" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="FOREGROUND" value="33ecc8" />
+        <option name="BACKGROUND" value="33ecc8" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -3859,4 +3854,10 @@
       </value>
     </option>
   </attributes>
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
 </scheme>
